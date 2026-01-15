@@ -1,0 +1,23 @@
+# Privacy Policy
+
+Last updated: 2026-01-16
+
+EasyKidsMode does not collect, store, or share personal data.
+
+## Data collection
+
+* No personal data is collected.
+* No analytics, advertising IDs, or tracking are used.
+
+## Data sharing
+
+* No data is shared with third parties.
+
+## Permissions
+
+EasyKidsMode suggests optional permissions to improve Kids Mode protection. These permissions are optional and used only for the features described in the app and can be enabled or disabled by the parent at any time.
+
+## Contact
+
+For questions, contact: grcyber@outlook.com
+

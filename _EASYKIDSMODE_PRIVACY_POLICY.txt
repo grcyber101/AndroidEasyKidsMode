@@ -20,4 +20,5 @@ EasyKidsMode suggests optional permissions to improve Kids Mode protection. Thes
 ## Contact
 
 For questions, contact: grcyber@outlook.com
+Privacy Policy document hosted at: https://github.com/grcyber101/AndroidEasyKidsMode/blob/main/_EASYKIDSMODE_PRIVACY_POLICY.txt
 
